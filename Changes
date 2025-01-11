@@ -2,5 +2,6 @@ Revision history for Perl extension Daje-Workflow-Common-Base
 
 {{$NEXT}}
 
+    - 2025-01-10 activity_data added
     - original version
 
