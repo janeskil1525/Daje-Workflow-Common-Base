@@ -38,6 +38,7 @@ has 'context';
 has 'error';
 has 'activity_data';
 has 'model';
+has 'history';
 
 1;
 
